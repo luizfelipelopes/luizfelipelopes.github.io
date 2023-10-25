@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e65e0a1.css",
-    "main.js": "/static/js/main.540c62dd.js",
+    "main.css": "/static/css/main.13fa41d1.css",
+    "main.js": "/static/js/main.23e07b20.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/vale-consulting.png": "/static/media/vale-consulting.df49a1e716c9d7d67610.png",
+    "static/media/reply.jpg": "/static/media/reply.289cac0b3b4b6f9cc442.jpg",
     "static/media/foto-github.jpeg": "/static/media/foto-github.35f806c114161e221dbb.jpeg",
+    "static/media/accenture.jpeg": "/static/media/accenture.eaaac95d92bd9a15255b.jpeg",
     "index.html": "/index.html",
-    "main.0e65e0a1.css.map": "/static/css/main.0e65e0a1.css.map",
-    "main.540c62dd.js.map": "/static/js/main.540c62dd.js.map",
+    "main.13fa41d1.css.map": "/static/css/main.13fa41d1.css.map",
+    "main.23e07b20.js.map": "/static/js/main.23e07b20.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e65e0a1.css",
-    "static/js/main.540c62dd.js"
+    "static/css/main.13fa41d1.css",
+    "static/js/main.23e07b20.js"
   ]
 }
