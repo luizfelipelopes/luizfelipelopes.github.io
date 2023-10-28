@@ -1,20 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.13fa41d1.css",
-    "main.js": "/static/js/main.23e07b20.js",
+    "main.css": "/static/css/main.38560a9d.css",
+    "main.js": "/static/js/main.b7c13b81.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/appgabadi.png": "/static/media/appgabadi.97241cca5bd3eaf93d91.png",
     "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/appsaudavel.png": "/static/media/appsaudavel.ca14759cb59a4265def3.png",
+    "static/media/cardapio.png": "/static/media/cardapio.63ccf42310e4d1eb3b79.png",
+    "static/media/pizzaria.png": "/static/media/pizzaria.adbdc9731743829df959.png",
+    "static/media/blog-nutricao.png": "/static/media/blog-nutricao.3d9f9614208a68f2871c.png",
+    "static/media/ingresso.png": "/static/media/ingresso.32e712bf4c4ba32b1b2a.png",
+    "static/media/portfolio.png": "/static/media/portfolio.ffb6f6a04ecebde6e362.png",
+    "static/media/landing-page.png": "/static/media/landing-page.4f4d75d585e98fbb39d0.png",
     "static/media/vale-consulting.png": "/static/media/vale-consulting.df49a1e716c9d7d67610.png",
+    "static/media/ead.png": "/static/media/ead.824ae6ce01adce13ffa1.png",
+    "static/media/blog-cristao.png": "/static/media/blog-cristao.07cbbb2c5591f998e340.png",
+    "static/media/testimonial-nayara.jpeg": "/static/media/testimonial-nayara.670695ec507912578af9.jpeg",
+    "static/media/testimonial-vitoria-alves.jpeg": "/static/media/testimonial-vitoria-alves.96782d80d965cb1c9343.jpeg",
     "static/media/reply.jpg": "/static/media/reply.289cac0b3b4b6f9cc442.jpg",
     "static/media/foto-github.jpeg": "/static/media/foto-github.35f806c114161e221dbb.jpeg",
     "static/media/accenture.jpeg": "/static/media/accenture.eaaac95d92bd9a15255b.jpeg",
     "index.html": "/index.html",
-    "main.13fa41d1.css.map": "/static/css/main.13fa41d1.css.map",
-    "main.23e07b20.js.map": "/static/js/main.23e07b20.js.map",
+    "main.38560a9d.css.map": "/static/css/main.38560a9d.css.map",
+    "main.b7c13b81.js.map": "/static/js/main.b7c13b81.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13fa41d1.css",
-    "static/js/main.23e07b20.js"
+    "static/css/main.38560a9d.css",
+    "static/js/main.b7c13b81.js"
   ]
 }
